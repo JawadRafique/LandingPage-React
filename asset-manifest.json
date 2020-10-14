@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LandingPage-React/static/css/main.afb11cd0.chunk.css",
-    "main.js": "/LandingPage-React/static/js/main.3dbf04ea.chunk.js",
-    "main.js.map": "/LandingPage-React/static/js/main.3dbf04ea.chunk.js.map",
+    "main.css": "/LandingPage-React/static/css/main.20109987.chunk.css",
+    "main.js": "/LandingPage-React/static/js/main.3bd5ccdf.chunk.js",
+    "main.js.map": "/LandingPage-React/static/js/main.3bd5ccdf.chunk.js.map",
     "runtime-main.js": "/LandingPage-React/static/js/runtime-main.cacaeec2.js",
     "runtime-main.js.map": "/LandingPage-React/static/js/runtime-main.cacaeec2.js.map",
     "static/js/2.da0d335d.chunk.js": "/LandingPage-React/static/js/2.da0d335d.chunk.js",
     "static/js/2.da0d335d.chunk.js.map": "/LandingPage-React/static/js/2.da0d335d.chunk.js.map",
     "index.html": "/LandingPage-React/index.html",
-    "precache-manifest.cf4131472c89fd94492357e3e823d48a.js": "/LandingPage-React/precache-manifest.cf4131472c89fd94492357e3e823d48a.js",
+    "precache-manifest.dc9f54caef1997e098feb2751c111c30.js": "/LandingPage-React/precache-manifest.dc9f54caef1997e098feb2751c111c30.js",
     "service-worker.js": "/LandingPage-React/service-worker.js",
-    "static/css/main.afb11cd0.chunk.css.map": "/LandingPage-React/static/css/main.afb11cd0.chunk.css.map",
+    "static/css/main.20109987.chunk.css.map": "/LandingPage-React/static/css/main.20109987.chunk.css.map",
     "static/js/2.da0d335d.chunk.js.LICENSE.txt": "/LandingPage-React/static/js/2.da0d335d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cacaeec2.js",
     "static/js/2.da0d335d.chunk.js",
-    "static/css/main.afb11cd0.chunk.css",
-    "static/js/main.3dbf04ea.chunk.js"
+    "static/css/main.20109987.chunk.css",
+    "static/js/main.3bd5ccdf.chunk.js"
   ]
 }
