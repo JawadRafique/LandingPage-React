@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a53e850ea51d83f017c7a95fbec3ae38",
+    "revision": "c8670b104bf5cd1d17c4c2e40f9b9ba2",
     "url": "/LandingPage-React/index.html"
   },
   {
-    "revision": "ceaa46b810e1ddcd8a95",
+    "revision": "19f5d34385a0df69e978",
     "url": "/LandingPage-React/static/css/2.e6a3ae7b.chunk.css"
   },
   {
-    "revision": "f8886a5ae3f857bbd6ea",
-    "url": "/LandingPage-React/static/css/main.ad58c72e.chunk.css"
+    "revision": "e544429782677f60a0f5",
+    "url": "/LandingPage-React/static/css/main.7e7cc313.chunk.css"
   },
   {
-    "revision": "ceaa46b810e1ddcd8a95",
-    "url": "/LandingPage-React/static/js/2.f42508ed.chunk.js"
+    "revision": "19f5d34385a0df69e978",
+    "url": "/LandingPage-React/static/js/2.5b95e3c3.chunk.js"
   },
   {
     "revision": "7b53a0f4fcebb5e37e65b1883c203bd3",
-    "url": "/LandingPage-React/static/js/2.f42508ed.chunk.js.LICENSE.txt"
+    "url": "/LandingPage-React/static/js/2.5b95e3c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8886a5ae3f857bbd6ea",
-    "url": "/LandingPage-React/static/js/main.92eb0acc.chunk.js"
+    "revision": "e544429782677f60a0f5",
+    "url": "/LandingPage-React/static/js/main.20618db6.chunk.js"
   },
   {
     "revision": "655d618bb5347ccbc499",

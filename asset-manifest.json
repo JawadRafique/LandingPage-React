@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LandingPage-React/static/css/main.ad58c72e.chunk.css",
-    "main.js": "/LandingPage-React/static/js/main.92eb0acc.chunk.js",
-    "main.js.map": "/LandingPage-React/static/js/main.92eb0acc.chunk.js.map",
+    "main.css": "/LandingPage-React/static/css/main.7e7cc313.chunk.css",
+    "main.js": "/LandingPage-React/static/js/main.20618db6.chunk.js",
+    "main.js.map": "/LandingPage-React/static/js/main.20618db6.chunk.js.map",
     "runtime-main.js": "/LandingPage-React/static/js/runtime-main.cacaeec2.js",
     "runtime-main.js.map": "/LandingPage-React/static/js/runtime-main.cacaeec2.js.map",
     "static/css/2.e6a3ae7b.chunk.css": "/LandingPage-React/static/css/2.e6a3ae7b.chunk.css",
-    "static/js/2.f42508ed.chunk.js": "/LandingPage-React/static/js/2.f42508ed.chunk.js",
-    "static/js/2.f42508ed.chunk.js.map": "/LandingPage-React/static/js/2.f42508ed.chunk.js.map",
+    "static/js/2.5b95e3c3.chunk.js": "/LandingPage-React/static/js/2.5b95e3c3.chunk.js",
+    "static/js/2.5b95e3c3.chunk.js.map": "/LandingPage-React/static/js/2.5b95e3c3.chunk.js.map",
     "index.html": "/LandingPage-React/index.html",
-    "precache-manifest.10aa1768dd7be5772c9251e42333d9cd.js": "/LandingPage-React/precache-manifest.10aa1768dd7be5772c9251e42333d9cd.js",
+    "precache-manifest.b5340eaa1e63bb0dbe31926e5215a8c5.js": "/LandingPage-React/precache-manifest.b5340eaa1e63bb0dbe31926e5215a8c5.js",
     "service-worker.js": "/LandingPage-React/service-worker.js",
     "static/css/2.e6a3ae7b.chunk.css.map": "/LandingPage-React/static/css/2.e6a3ae7b.chunk.css.map",
-    "static/css/main.ad58c72e.chunk.css.map": "/LandingPage-React/static/css/main.ad58c72e.chunk.css.map",
-    "static/js/2.f42508ed.chunk.js.LICENSE.txt": "/LandingPage-React/static/js/2.f42508ed.chunk.js.LICENSE.txt",
+    "static/css/main.7e7cc313.chunk.css.map": "/LandingPage-React/static/css/main.7e7cc313.chunk.css.map",
+    "static/js/2.5b95e3c3.chunk.js.LICENSE.txt": "/LandingPage-React/static/js/2.5b95e3c3.chunk.js.LICENSE.txt",
     "static/media/bannerlarge.webp": "/LandingPage-React/static/media/bannerlarge.a03a1e21.webp",
     "static/media/jawad.png": "/LandingPage-React/static/media/jawad.40107029.png",
     "static/media/logo.webp": "/LandingPage-React/static/media/logo.da8173c0.webp",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.cacaeec2.js",
     "static/css/2.e6a3ae7b.chunk.css",
-    "static/js/2.f42508ed.chunk.js",
-    "static/css/main.ad58c72e.chunk.css",
-    "static/js/main.92eb0acc.chunk.js"
+    "static/js/2.5b95e3c3.chunk.js",
+    "static/css/main.7e7cc313.chunk.css",
+    "static/js/main.20618db6.chunk.js"
   ]
 }
